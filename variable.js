@@ -8,21 +8,21 @@
  */
 
 // akhne ekta variable lekha holo.
-var eggPrice = 40;
-var age = 22;
+// var eggPrice = 40;
+// var age = 22;
 
 /**
  * akhane eggPrice and age holo variable er nam. ai variable gulo use kote hole amader nam dore call korte hobe.
  */
 
-50
-50
-50 
+// 50
+// 50
+// 50 
 // avabe jodi thake tahole bujte parbo na agulo asole ki kintu
 
-var sugarPrice = 50;
-var saltPrice = 50;
-var age = 50;
+// var sugarPrice = 50;
+// var saltPrice = 50;
+// var age = 50;
 
 // akhon kintu amra clearly bulte partechi konta diye ki bujayche so variable er name diye amara bujte pari kontar kon data store kore ache.
 
@@ -37,3 +37,15 @@ var age = 50;
 //achara variable er age kono spacial character use kora jay na kintu $ and _ use kora jay kintu ata recommendation na.
 
 // var $eggPrice = 22; var _eggPrice = 44; 
+
+
+
+
+/**
+ * String data store in variable.
+ */
+
+// var gfName = Nusrat Jahan; 
+// this is wrong
+var newGfName = "Nusrat Jahan";
+console.log(newGfName)
