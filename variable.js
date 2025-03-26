@@ -70,8 +70,8 @@
  */
 
 
-var hero = "afran Nisho";
+// var hero = "afran Nisho";
 
-hero = "mosarrof Korom";
-hero = "hero Alom"
-console.log(hero);
+// hero = "mosarrof Korom";
+// hero = "hero Alom"
+// console.log(hero);
