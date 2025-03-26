@@ -45,7 +45,26 @@
  * String data store in variable.
  */
 
-// var gfName = Nusrat Jahan; 
-// this is wrong
-var newGfName = "Nusrat Jahan";
-console.log(newGfName)
+// var gfName = Nusrat Jahan;   // this is wrong 
+// var newGfName = "Nusrat Jahan"; // this is right
+// var address = 'dhaka road-12' // this is also right
+
+// var actor = "Mosarrof Korom";
+// console.log(actor)
+
+// var name = "Habib";
+// console.log(typeof name)
+
+// var x = 20;
+// document.write( x)
+
+// var isSub = true;
+// var isPassed = false;
+// console.log(isSub, isPassed)
+
+/**
+ *  1, number
+ *  2, String
+ *  3, Boolean
+ *  typeof keyword
+ */
