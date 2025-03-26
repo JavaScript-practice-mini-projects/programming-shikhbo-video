@@ -24,3 +24,18 @@
 // var num = [22, 44, 66, 77, 75, 23];
 // var numValue = num[2];
 // console.log(numValue);
+
+// var num = [22, 44, 66, 77, 75, 23, 99];
+// console.log(num)
+// console.log(num.length)
+// var index = num.indexOf(99);
+// console.log(index)
+
+// var num = [22, 44, 66, 77, 75, 23, 99];
+// var index = num.indexOf(23);
+// var value = num[index];
+// // value = 20;
+// // console.log(value)
+
+// num[index] = 40;
+// console.log(num)
