@@ -68,3 +68,10 @@
  *  3, Boolean
  *  typeof keyword
  */
+
+
+var hero = "afran Nisho";
+
+hero = "mosarrof Korom";
+hero = "hero Alom"
+console.log(hero);
