@@ -31,3 +31,21 @@
 //   console.log(habib["email-address"]);  // "habib@example.com"
 //   console.log(habib[123]);              // "Some Value"
   
+// var person = {
+//     name: "Habib",
+//     age: 22,
+//     contact: {
+//       email: "habib@example.com",
+//       phone: "017XXXXXXXX"
+//     }
+//   };
+  
+// Object.freeze(person)
+// person.skills = ["html", "css", "js"];
+
+// person.name = "Fency"
+// delete person.contact.phone;
+
+//   console.log(person);          
+//   console.log(person.contact); 
+  
