@@ -39,3 +39,14 @@
 
 // num[index] = 40;
 // console.log(num)
+
+//  var friendName = ["html", "css", "javascript", "React"];
+
+//  console.log(friendName)
+//  friendName.push("Photoshop", 'Figma')
+//  console.log(friendName)
+//  friendName.pop()
+//  friendName.pop()
+//  friendName.pop()
+//  friendName.pop()
+//  console.log(friendName)
