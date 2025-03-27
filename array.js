@@ -59,7 +59,7 @@
 // console.log(x)
 
 // var x = [22, 44, 66, 77, 88,];
-// // x.unshift(11);
+// x.unshift(11);
 // x.shift();
 // x.shift();
 // x.shift();
@@ -69,8 +69,8 @@
 // var friendName = ["html", "css", "javascript", "react"];
 // var x = [22, 88, 44, 66, 77 ];
 
-// // x.sort();
-// // console.log(x)
+// x.sort();
+// console.log(x)
 
 // friendName.sort();
 // console.log(friendName)
