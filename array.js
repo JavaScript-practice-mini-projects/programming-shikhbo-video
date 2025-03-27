@@ -50,3 +50,27 @@
 //  friendName.pop()
 //  friendName.pop()
 //  console.log(friendName)
+
+
+// var x = [22, 44, 66, 77, 88,];
+// x.push(99);
+// console.log(x)
+// x.pop();
+// console.log(x)
+
+// var x = [22, 44, 66, 77, 88,];
+// // x.unshift(11);
+// x.shift();
+// x.shift();
+// x.shift();
+// console.log(x)
+
+
+// var friendName = ["html", "css", "javascript", "react"];
+// var x = [22, 88, 44, 66, 77 ];
+
+// // x.sort();
+// // console.log(x)
+
+// friendName.sort();
+// console.log(friendName)
