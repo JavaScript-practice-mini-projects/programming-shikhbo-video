@@ -75,3 +75,24 @@
 // hero = "mosarrof Korom";
 // hero = "hero Alom"
 // console.log(hero);
+
+
+
+// Data type
+/**
+ *  1) Primitive
+ *  * number
+ *  * String
+ *  * Boolean
+ *  * null
+ *  * Undefined
+ *  * Symbol
+ *  * BigInt
+ * 
+ *  Non-Primitive - Reference
+ *  * Object
+ *  * Array
+ *  * Function
+ *  * Date()
+ *  
+ */
